@@ -25,25 +25,30 @@ Food Eazy, is an online platform to order food and avoiding the hassle of going 
  - Delete dishes
  ## Screenshots
  ### Login Page
- ![enter image description here](<img width="945" alt="login" src="https://github.com/ayush461/Easy-Food/readme_images/login.png">)
+ <img width="945" alt="login" src="https://github.com/ayush461/Easy-Food/assets/69451578/c6515176-5199-4a51-baa3-36abcfa57963">
+
 
 ### Email Verify Page
-![enter image description here](<img width="957" alt="verify" src="https://github.com/ayush461/Easy-Food/assets/69451578/65830d0f-b0fb-4df6-bf93-45e1bcf4f4b8">)
+<img width="957" alt="verify" src="https://github.com/ayush461/Easy-Food/assets/69451578/96b7f2f5-6f8c-48ee-b4d6-0c3caf53f38b">
+
 ### Home Page
-![enter image description here](<img width="949" alt="menu" src="https://github.com/ayush461/Easy-Food/assets/69451578/4a4f0a27-15b8-4125-9a0f-cf20a91b2540">
-)
+<img width="949" alt="menu" src="https://github.com/ayush461/Easy-Food/assets/69451578/b3c41e2d-66e5-4e85-9380-98053f42966c">
+
 
 ### Cart
-![enter image description here](<img width="957" alt="cart" src="https://github.com/ayush461/Easy-Food/assets/69451578/9315b982-8362-47b4-be02-3b71f938496b">)
+<img width="957" alt="cart" src="https://github.com/ayush461/Easy-Food/assets/69451578/bf11a7b4-0ee9-4f2b-9cb9-83e6d114c615">
+
 
 ### Checkout
-![enter image description here](<img width="940" alt="checkout" src="https://github.com/ayush461/Easy-Food/assets/69451578/a88b9264-fd30-49f6-9011-4d26708db5b1">)
+<img width="940" alt="checkout" src="https://github.com/ayush461/Easy-Food/assets/69451578/e508a4b8-aaa5-428c-837e-b5d435582d0c">
 
 ### Add Dish (Admin)
-![enter image description here](<img width="960" alt="add_dish" src="https://github.com/ayush461/Easy-Food/assets/69451578/7faf2159-0b80-440c-b10f-3d7a1a76599d">
-)
+<img width="960" alt="add_dish" src="https://github.com/ayush461/Easy-Food/assets/69451578/fd0d59f1-8bc7-47dd-a389-5b7636ab2c74">
+
+
 ### Delete Dish (Admin)
-![enter image description here](<img width="941" alt="delete_items" src="https://github.com/ayush461/Easy-Food/assets/69451578/d0b5103a-43f3-415a-a331-0b8dcfd9eb8c">)
+<img width="941" alt="delete_items" src="https://github.com/ayush461/Easy-Food/assets/69451578/07eecebe-1be2-4d4c-bbbd-2435c2aabae4">
+
 ## Tech Stack 💻
 
  - [React.js](https://reactjs.org/)
