@@ -34,10 +34,10 @@ const Contact = () => {
             <CardActionArea>
               <CardMedia
                 component="img"
-                alt=" Mihir Gupta"
+                alt=" Ayush Agarwal"
                 height="300"
                 image={require("../images/Mihir.jpeg")}
-                title=" Mihir Gupta"
+                title=" Ayush Agarwal"
               />
               <CardContent className="contact_card">
                 <Typography
@@ -70,7 +70,7 @@ const Contact = () => {
               <div>
                 <a
                   target="_blank"
-                  href="https://www.linkedin.com/in/mihir0699/"
+                  href="https://www.linkedin.com/in/ayush-agarwal-077158186/"
                 >
                   <img
                     src="https://image.flaticon.com/icons/svg/174/174857.svg"
@@ -80,7 +80,7 @@ const Contact = () => {
                 </a>
               </div>
               <div>
-                <a target="_blank" href="https://github.com/mihir0699">
+                <a target="_blank" href="https://github.com/ayush461">
                   <img
                     src="https://image.flaticon.com/icons/svg/1051/1051275.svg"
                     alt="linkedin"
@@ -89,7 +89,7 @@ const Contact = () => {
                 </a>
               </div>
               <div>
-                <a target="_blank" href="https://instagram.com/mihir_gupta_1">
+                <a target="_blank" href="https://instagram.com/ayushagarwal819">
                   <img
                     src="https://image.flaticon.com/icons/svg/733/733558.svg"
                     alt="linkedin"
