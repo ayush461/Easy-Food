@@ -25,7 +25,7 @@ Food Eazy, is an online platform to order food and avoiding the hassle of going 
  - Delete dishes
  ## Screenshots
  ### Login Page
- ![enter image description here](<img width="945" alt="login" src="https://github.com/ayush461/Easy-Food/readme_images\login.png">)
+ ![enter image description here](<img width="945" alt="login" src="https://github.com/ayush461/Easy-Food/readme_images/login.png">)
 
 ### Email Verify Page
 ![enter image description here](<img width="957" alt="verify" src="https://github.com/ayush461/Easy-Food/assets/69451578/65830d0f-b0fb-4df6-bf93-45e1bcf4f4b8">)
