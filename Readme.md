@@ -25,7 +25,7 @@ Food Eazy, is an online platform to order food and avoiding the hassle of going 
  - Delete dishes
  ## Screenshots
  ### Login Page
- ![enter image description here](https://raw.githubusercontent.com/ayush461/FoodEazy/master/readme_images/login.png?token=ALT5AMEK4CX7HVYASAKMCP3BL22BY)
+ ![enter image description here](readme_images\login.png)
 ### Email Verify Page
 ![enter image description here](https://raw.githubusercontent.com/ayush461/FoodEazy/master/readme_images/verify.png?token=ALT5AMFPEOQAAI7VQVV56XTBL22EA)
 ### Home Page
