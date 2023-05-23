@@ -37,7 +37,7 @@ Food Eazy, is an online platform to order food and avoiding the hassle of going 
 ### Checkout
 ![enter image description here](https://raw.githubusercontent.com/ayush461/FoodEazy/master/readme_images/checkout.png?token=ALT5AMF45WBP3N4WOPY3G4LBL22IU)
 ### Contact Us
-![enter image description here](https://raw.githubusercontent.com/mihir0699/FoodEazy/master/readme_images/contact_us.png)
+![enter image description here](https://raw.githubusercontent.com/ayush461/FoodEazy/master/readme_images/contact_us.png)
 ### Add Dish (Admin)
 ![enter image description here](https://raw.githubusercontent.com/ayush461/FoodEazy/master/readme_images/add_dish.png?token=ALT5AMHASSDL3WCV2BVKP4DBL22JW)
 ### Delete Dish (Admin)
