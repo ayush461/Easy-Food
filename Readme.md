@@ -25,11 +25,12 @@ Food Eazy, is an online platform to order food and avoiding the hassle of going 
  - Delete dishes
  ## Screenshots
  ### Login Page
- ![enter image description here](https://raw.githubusercontent.com/ayush461/FoodEazy/master/readme_images/login.png?token=ALT5AMEK4CX7HVYASAKMCP3BL22BY)
+ ![enter image description here](<img width="945" alt="login" src="https://github.com/ayush461/Easy-Food/assets/69451578/5d68a3d3-745d-4907-9b06-26a2b3cbebd0">)
 ### Email Verify Page
-![enter image description here](https://raw.githubusercontent.com/ayush461/FoodEazy/master/readme_images/verify.png?token=ALT5AMFPEOQAAI7VQVV56XTBL22EA)
+![enter image description here](<img width="957" alt="verify" src="https://github.com/ayush461/Easy-Food/assets/69451578/65830d0f-b0fb-4df6-bf93-45e1bcf4f4b8">)
 ### Home Page
-![enter image description here](https://raw.githubusercontent.com/ayush461/FoodEazy/master/readme_images/menu.png?token=ALT5AMA2CGEZZGVVZ2DJPE3BL22FW)
+![enter image description here](<img width="949" alt="menu" src="https://github.com/ayush461/Easy-Food/assets/69451578/4a4f0a27-15b8-4125-9a0f-cf20a91b2540">
+)
 
 ### Cart
 ![enter image description here](<img width="957" alt="cart" src="https://github.com/ayush461/Easy-Food/assets/69451578/9315b982-8362-47b4-be02-3b71f938496b">)
