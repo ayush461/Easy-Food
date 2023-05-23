@@ -27,21 +27,22 @@ Food Eazy, is an online platform to order food and avoiding the hassle of going 
  ### Login Page
  ![enter image description here](readme_images\login.png)
 ### Email Verify Page
-![enter image description here](https://raw.githubusercontent.com/ayush461/FoodEazy/master/readme_images/verify.png?token=ALT5AMFPEOQAAI7VQVV56XTBL22EA)
+![enter image description here](<img width="957" alt="verify" src="https://github.com/ayush461/Easy-Food/assets/69451578/65830d0f-b0fb-4df6-bf93-45e1bcf4f4b8">)
 ### Home Page
-![enter image description here](https://raw.githubusercontent.com/ayush461/FoodEazy/master/readme_images/menu.png?token=ALT5AMA2CGEZZGVVZ2DJPE3BL22FW)
+![enter image description here](<img width="949" alt="menu" src="https://github.com/ayush461/Easy-Food/assets/69451578/4a4f0a27-15b8-4125-9a0f-cf20a91b2540">
+)
 
 ### Cart
-![enter image description here](https://raw.githubusercontent.com/ayush461/FoodEazy/master/readme_images/cart.png?token=ALT5AMHY64MUDVC5BWYDE6LBL22HC)
+![enter image description here](<img width="957" alt="cart" src="https://github.com/ayush461/Easy-Food/assets/69451578/9315b982-8362-47b4-be02-3b71f938496b">)
 
 ### Checkout
-![enter image description here](https://raw.githubusercontent.com/ayush461/FoodEazy/master/readme_images/checkout.png?token=ALT5AMF45WBP3N4WOPY3G4LBL22IU)
-### Contact Us
-![enter image description here](https://raw.githubusercontent.com/ayush461/FoodEazy/master/readme_images/contact_us.png)
+![enter image description here](<img width="940" alt="checkout" src="https://github.com/ayush461/Easy-Food/assets/69451578/a88b9264-fd30-49f6-9011-4d26708db5b1">)
+
 ### Add Dish (Admin)
-![enter image description here](https://raw.githubusercontent.com/ayush461/FoodEazy/master/readme_images/add_dish.png?token=ALT5AMHASSDL3WCV2BVKP4DBL22JW)
+![enter image description here](<img width="960" alt="add_dish" src="https://github.com/ayush461/Easy-Food/assets/69451578/7faf2159-0b80-440c-b10f-3d7a1a76599d">
+)
 ### Delete Dish (Admin)
-![enter image description here](https://raw.githubusercontent.com/ayush461/FoodEazy/master/readme_images/delete_items.png?token=ALT5AMFDKCVU3E44IGHROLDBL22LA)
+![enter image description here](<img width="941" alt="delete_items" src="https://github.com/ayush461/Easy-Food/assets/69451578/d0b5103a-43f3-415a-a331-0b8dcfd9eb8c">)
 ## Tech Stack 💻
 
  - [React.js](https://reactjs.org/)
