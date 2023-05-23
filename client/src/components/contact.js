@@ -46,7 +46,7 @@ const Contact = () => {
                   component="h2"
                   style={{ fontFamily: "Mulish" }}
                 >
-                  Mihir Gupta
+                  Ayush Agarwal
                 </Typography>
                 <Typography
                   variant="body2"
@@ -83,7 +83,7 @@ const Contact = () => {
                 <a target="_blank" href="https://github.com/ayush461">
                   <img
                     src="https://image.flaticon.com/icons/svg/1051/1051275.svg"
-                    alt="linkedin"
+                    alt="Gtithub"
                     style={{ height: "5vh", width: "5vh" }}
                   />
                 </a>
@@ -92,7 +92,7 @@ const Contact = () => {
                 <a target="_blank" href="https://instagram.com/ayushagarwal819">
                   <img
                     src="https://image.flaticon.com/icons/svg/733/733558.svg"
-                    alt="linkedin"
+                    alt="Instagram"
                     style={{ height: "5vh", width: "5vh" }}
                   />
                 </a>
