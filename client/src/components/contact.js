@@ -24,7 +24,7 @@ const Contact = () => {
         style={{ fontFamily: "Alata", paddingTop: "1rem" }}
         className="animate__animated animate__fadeIn"
       >
-        Made with <FavoriteIcon style={{ color: "red" }} /> in India <img src='https://image.flaticon.com/icons/svg/321/321238.svg' style={{height:'2rem'}} />{" "}By
+        Made with <FavoriteIcon style={{ color: "red" }} /> in India <img    src={require("../images/inj.png")} style={{height:'2rem'}} />{" "}By
       </h1>
 
       <div className="contact_container">
@@ -36,7 +36,7 @@ const Contact = () => {
                 component="img"
                 alt=" Ayush Agarwal"
                 height="300"
-                image={require("../images/Mihir.jpeg")}
+                image={require("../images/ayush.jpeg")}
                 title=" Ayush Agarwal"
               />
               <CardContent className="contact_card">
@@ -73,7 +73,8 @@ const Contact = () => {
                   href="https://www.linkedin.com/in/ayush-agarwal-077158186/"
                 >
                   <img
-                    src="https://image.flaticon.com/icons/svg/174/174857.svg"
+                  src={require("../images/li.png")}
+                   // src="https://image.flaticon.com/icons/svg/174/174857.svg"
                     alt="linkedin"
                     style={{ height: "5vh", width: "5vh" }}
                   />
@@ -82,7 +83,8 @@ const Contact = () => {
               <div>
                 <a target="_blank" href="https://github.com/ayush461">
                   <img
-                    src="https://image.flaticon.com/icons/svg/1051/1051275.svg"
+                  src={require("../images/gr.png")}
+                    //src="https://image.flaticon.com/icons/svg/1051/1051275.svg"
                     alt="Gtithub"
                     style={{ height: "5vh", width: "5vh" }}
                   />
@@ -91,7 +93,8 @@ const Contact = () => {
               <div>
                 <a target="_blank" href="https://instagram.com/ayushagarwal819">
                   <img
-                    src="https://image.flaticon.com/icons/svg/733/733558.svg"
+                    src={require("../images/i.png")}
+                    //src="https://image.flaticon.com/icons/svg/733/733558.svg"
                     alt="Instagram"
                     style={{ height: "5vh", width: "5vh" }}
                   />
